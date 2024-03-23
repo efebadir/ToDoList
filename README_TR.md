@@ -7,13 +7,19 @@
 </div>
 
 
+
+
 # To Do List Uygulaması
 
 Bu proje, Kotlin programlama dili kullanılarak geliştirilmiş tasarım üzerinde detaylı durulmamış bir To Do List uygulamasını içerir. 
 
+---
+
 ## Proje Açıklaması
 
 Bu uygulama, kullanıcıların günlük görevlerini yönetmelerine olanak tanır. Kullanıcılar, yapılacak işleri ekleyebilir, düzenleyebilir, ve silebilir. Ayrıca, görevleri tamamlandı olarak işaretleyebilirler.
+
+---
 
 ## Özellikler
 
@@ -22,17 +28,23 @@ Bu uygulama, kullanıcıların günlük görevlerini yönetmelerine olanak tanı
 - **Görev Silme**: 🗑️ Kullanıcılar, mevcut görevleri silme seçeneğine sahiptir.
 - **Arama**: 🔍 Kullanıcılar, mevcut görevler arasında arama yapabilirler.
 
+- ---
+
 ## Ekran Görüntüleri
 
 ![Screenshot_1711028125](https://github.com/efebadir/ToDoList/assets/142944447/afab0cad-10af-4282-b0f5-2a8bbef53087)
 ![Screenshot_1711028120](https://github.com/efebadir/ToDoList/assets/142944447/5f87b72e-15e3-452e-8fa8-93cbd02e3ed1)
 ![Screenshot_1711028113](https://github.com/efebadir/ToDoList/assets/142944447/7516becc-ee35-486c-a25a-b827b18bb1d9)
 
+---
+
 ## Ekranlar
 
 1. **Anasayfa**: Kullanıcılar mevcut görevleri görüntüleyebilir, yeni görevler ekleyebilir ve mevcut görevleri düzenleyebilir veya silebilirler.
 2. **Kayıt Sayfası**: 🆕 Yeni görev oluşturmak için kullanılır. Float action button üzerinden erişilebilir.
 3. **Güncelleme Sayfası**: 🔄 Mevcut görevlerin detaylarını gösterir ve kullanıcılar bu detayları düzenleyebilir veya görevi silebilirler.
+
+---
 
 
 ## Teknolojiler
@@ -47,13 +59,19 @@ Bu proje, aşağıdaki teknolojileri içermektedir:
 - **ViewModel**: UI ile veri arasındaki etkileşimi yönetmek için kullanılır.
 Bu projede kullanılan temel teknolojiler ve bileşenlerdir.
 
+---
+
 ## Kullanım
 
 Bu To Do List uygulaması, Kotlin programlama dili kullanılarak geliştirilmiş olup, Android cihazlarda kullanılabilir. Kullanıcılar, günlük görevlerini düzenlemek ve takip etmek için bu uygulamayı kullanabilirler.
 
+---
+
 ## Katkıda Bulunma
 
 Bu proje, geliştirme için açıktır ve katkıda bulunmaktan memnuniyet duyarız. Her türlü geri bildirimi ve katkıyı açık bir şekilde karşılıyoruz.
+
+---
 
 ## Lisans
 
